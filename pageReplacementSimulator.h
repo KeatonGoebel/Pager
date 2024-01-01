@@ -5,7 +5,7 @@
 //  Interface for Page Replacement Simulator Class
 //
 
-#ifunctiondef    PAGEREPLACEMENTSIMULATOR_H
+#ifndef    PAGEREPLACEMENTSIMULATOR_H
 #define    PAGEREPLACEMENTSIMULATOR_H
 
 #include <iostream>
